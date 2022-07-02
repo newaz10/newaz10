@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MH Newaz</h1>
 <h3 align="center">Competitive Programmer🌟</h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="400" width="500" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="250" width="350" /></p>
 
 
 - 🌱 I’m currently learning Full-Stack-Web-Development
