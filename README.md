@@ -73,4 +73,4 @@
 
 <br>
 
-[MH-Newaz](https://github.com/newaz10)
+[MH Newaz](https://github.com/newaz10)
