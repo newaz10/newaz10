@@ -71,4 +71,9 @@
 
 <br>
 
-[MH Newaz](https://github.com/newaz10)
+[MH Newaz](https://github.com/newaz10) 
+<br>
+<br>
+<a href="https://github.com/newaz10/">
+  <img src="https://komarev.com/ghpvc/?username=newaz10" alt="visitors" />
+</a>
