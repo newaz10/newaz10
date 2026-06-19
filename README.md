@@ -12,7 +12,7 @@
     <a href="https://newaz-portfolio.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://newaz-portfolio.vercel.app/resume.pdf" target="_blank">
+    <a href="https://newaz-portfolio.vercel.app/MH_Newaz_MERN_Engineer_Resume.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
     </a>
     <a href="mailto:mh.newaz001@gmail.com">
